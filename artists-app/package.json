@@ -1,0 +1,17 @@
+{
+  "name": "artists-app",
+  "version": "1.0.0",
+  "description": "Search Artists using Spotify API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moises Vargas",
+  "license": "MIT",
+  "dependencies": {
+    "artists-module": "file:../artists-module",
+    "inquirer": "^6.2.2",
+    "superagent": "^4.1.0",
+    "yargs": "^13.2.2"
+  }
+}

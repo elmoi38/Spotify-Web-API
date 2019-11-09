@@ -1,0 +1,17 @@
+{
+  "name": "artists-module",
+  "version": "1.0.0",
+  "description": "Module for the Spotify API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moises Vargas",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "request": "^2.88.0",
+    "superagent": "^4.1.0",
+    "yargs": "^13.2.2"
+  }
+}
